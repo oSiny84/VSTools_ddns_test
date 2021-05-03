@@ -1,0 +1,7 @@
+D:\VS_Project\ddns_test\ddns_test\bin\Debug\ddns_test.exe
+D:\VS_Project\ddns_test\ddns_test\bin\Debug\ddns_test.pdb
+D:\VS_Project\ddns_test\ddns_test\obj\x86\Debug\ddns_test.Form1.resources
+D:\VS_Project\ddns_test\ddns_test\obj\x86\Debug\ddns_test.Properties.Resources.resources
+D:\VS_Project\ddns_test\ddns_test\obj\x86\Debug\ddns_test.csproj.GenerateResource.Cache
+D:\VS_Project\ddns_test\ddns_test\obj\x86\Debug\ddns_test.exe
+D:\VS_Project\ddns_test\ddns_test\obj\x86\Debug\ddns_test.pdb
